@@ -24,6 +24,19 @@
     display: none;
 }
 
+.buttons {
+  list-style-type: none;
+}
+
+.buttons li {
+  padding: 7px;
+  border: none;
+}
+
+
+
+
+
 /* Responsive rules - apply when screen width is less than 1200px */
 
 @media screen and (max-width: 1199px) {
